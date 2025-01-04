@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+av = "==11.0.0"
+numpy = "==1.26.2"
+pydub = "==0.25.1"
+streamlit = "==1.29.0"
+streamlit-webrtc = "==0.47.1"
+openai = "==1.58.1"
+ffmpeg = "==1.4"
+opencv-python-headless = "==4.10.0.84"
+matplotlib = "==3.10.0"
+watchdog = "==6.0.0"
+langchain = "==0.3.13"
+langchain-openai = "==0.2.14"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
