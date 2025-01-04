@@ -53,7 +53,6 @@ git clone https://github.com/sumanentc/company-explorer.git
      ```toml
      openai_api_key = "Enter your valid API Key"
      ```
-   ![Env-Variables](./images/env.png)
 
 3. **Run the Streamlit App**
    ```bash
