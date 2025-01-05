@@ -2,9 +2,16 @@
 
 Introducing **Curious Samm**, the revolutionary app that answers questions about any object displayed in live video streams in near real-time. Powered by **Streamlit**, **LangChain**, and **Gen AI**, this app provides an immersive and interactive way to explore the world around you.
 
-![Curious Samm](./curious-sam.png)
+**Video demonstration (click the picture):**
 
-With cutting-edge technology, Curious Samm allows users to interact seamlessly, gaining instant insights and information about objects they encounter during live video experiences. Enhance your curiosity with Curious Samm, where knowledge meets the speed of the present moment.
+[![Curious Samm](./curious-sam.png)](https://youtu.be/K6tv0VPeGeg)
+
+Unveil the World with **Curious Samm**
+Experience the groundbreaking app that transforms the way you see and understand the world. Curious Samm combines the power of Streamlit, LangChain, and cutting-edge Generative AI to deliver instant answers about objects in live video streams.
+
+From identifying everyday items to uncovering fascinating insights, this dynamic app turns your live video into an interactive exploration tool. Curious Samm makes learning and discovery effortless, engaging, and real-time.
+
+Dive into the future of discovery with **Curious Samm** your window to an endless world of knowledge.
 
 ## Key Features
 - **Hands-free Interaction**: Engage effortlessly using voice commands.

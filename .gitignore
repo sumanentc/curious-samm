@@ -44,8 +44,8 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
-models/
-.rasa/*
 .langchain*
 .streamlit/
 .idea/
+audio/*
+images/*
