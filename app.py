@@ -65,7 +65,7 @@ def get_answer(prompt):
 
 def video_frame_callback(frame):
     img = frame.to_ndarray(format="rgb24")
-    print('inside video_frame_callback')
+    # print('inside video_frame_callback')
     with lock:
         img_container["img"] = img
     return frame
